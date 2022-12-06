@@ -41,7 +41,7 @@ describe('Module Online Shope', () => {
         onlinePage.clickShowTotalPrice()
         onlinePage.VerificoProductos()
         onlinePage.VerificoPrecios(productos.producto1.precio + productos.producto2.precio)
-        
+        aaa
     });
     
 });
