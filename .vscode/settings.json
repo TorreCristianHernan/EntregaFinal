@@ -1,0 +1,13 @@
+{
+    "launch": {
+        "version": "0.2.0",
+        "inputs": [],
+
+        "configurations": [],
+        "compounds": []
+    }
+
+    {"files.autoSave": "afterDelay",
+    "terminalintegrated.shell.windows":"C:\\Program Files\\myShell\\bin\\myShell.exe"}
+
+}The terminal process "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" terminated with exit code: 3221225477.
